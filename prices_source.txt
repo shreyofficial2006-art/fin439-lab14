@@ -1,0 +1,4 @@
+Source: Yahoo Finance via yfinance, monthly Adj Close, period 5y
+Tickers: BIL, IEF, LQD, TIP, VT
+Download date: 2026-10-20
+Rows: 60 months, 2021-11 to 2026-10
